@@ -179,6 +179,11 @@ img {
 .logo:focus {
   box-shadow: 0 0 0 4px rgba(41, 80, 147, 0.4)
 }
+.site-header__actions {
+  display: flex;
+  flex-wrap: wrap;
+  margin-left: auto;
+}
 
 /* EXCHANGE-RATES */
 .exchange-rates {
